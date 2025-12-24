@@ -1,2 +1,2 @@
 # Future-Financers
-Student buit financial literacy website.
+Student built financial literacy website.
