@@ -1,1 +1,309 @@
+.nav {
+    background-color: #2EAD58;
+    overflow: hidden;
+    height:auto;
+    font-family:"Segoe UI", Arial;
+    display:flex;
+    flex-wrap: wrap;
+    align-items:center;
+    padding: 14px 10px;
+}
 
+.nav a{
+    float: left;
+    color: #1E2D59;
+    font-size: 17px;
+    text-decoration: none;
+    text-align:center;
+    padding: 14px 10px;
+}
+
+.nav a.active {
+    text-decoration:underline;
+}
+
+.subnav {
+    float:left;
+    overflow:hidden;
+
+}
+
+.subnav .subnavbtn {
+    color: #1E2D59;
+    border:none;
+    outline:none;
+    padding: 14px 10px;
+    font-size: 17px;
+    text-decoration: none;
+    background-color:inherit;
+    font-family:inherit;
+    margin:1px;
+    
+}
+
+.nav a:hover,
+.subnav:hover .subnavbtn {
+    background-color:#2EAD58;
+}
+
+.subnav-content {
+    position: absolute;
+    background-color:#228d45;
+    display: none;
+    padding: 10px 0px;
+}
+
+.subnav-content a{
+    float: none;
+    color: #1E2D59;
+    text-decoration:none;
+    font-weight:bold;
+    padding: 1px 10px;
+}
+
+.subnav-content a:hover{
+    background-color:#228d45;
+}
+
+.subnav:hover .subnav-content{
+    display:block;
+}
+
+
+
+
+
+.logo #logo-box {
+    float:left;
+    width: 90px;
+    height: auto;
+    background: white;
+    border-radius: 120px;
+    padding: 5px;
+}
+
+h1 {
+    margin: 1px;
+    font-size: 34px;
+    color: #1E2D59;
+}
+
+h2 {
+    margin: 1px;
+    font-size:30px;
+    color: #1E2D59;
+}
+   
+.tagline {
+    margin: 3px;
+    font-size: 15px;
+    color: #1E2D59;
+} 
+
+.home-image {
+    width:450px;
+    height:300px;
+}
+
+.topics-rectangle {
+    width:250px;
+    height:150px;
+    background-color:#f5f9ff;
+    display:inline-block;
+    align-items:center;
+    color:#1E2D59;
+    font-family:open-sauce;
+    text-align:center;
+}
+
+#email-us {
+    width:370px;
+    height:20px;
+    background-color:#f5f9ff;
+    display:inline-block;
+    align-items:center;
+    color:#1E2D59;
+    font-family:open-sauce;
+    font-size:20px;
+    text-align:center;
+}
+
+.value-rectangle {
+    width:500px;
+    height:180px;
+    background-color:#f5f9ff;
+    display:inline-block;
+    align-items:center;
+    color:#1E2D59;
+    font-family:open-sauce;
+    text-align:center;
+}
+
+.vision-rectangle {
+    width:900px;
+    height:150px;
+    background-color:#f5f9ff;
+    display:inline-block;
+    align-items:center;
+    color:#1E2D59;
+    font-family:open-sauce;
+    text-align:center;
+}
+
+.budgeting-circle {
+    width:250px;
+    height:250px;
+    border-radius:90%;
+    background-color:#f5f9ff;
+    display:inline-block;
+    align-items:center;
+    color:#1E2D59;
+    font-family:open-sauce;
+    text-align:center;
+    padding: 40px;
+}
+
+.template-title-table {
+    margin-right:200px;
+}
+
+.template-links {
+    display: flex;
+    align-items: center;
+    color: #1E2D59;
+    text-align: center;
+    background: white;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.template-logo {
+    background: white;
+    border-radius: 100px;
+    width: 100px;
+    height: auto;
+}
+
+.svi-table {
+    background: #f5f9ff;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 15px;
+    border:2px;
+}
+
+.svi-table th{
+    background: #A8B0BF;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 15px;
+    margin:20px;
+    height:30px;
+    width:220px;
+}
+
+.resource-rectangles1 {
+    width:450px;
+    height:230px;
+    background-color:#f5f9ff;
+    display:inline-block;
+    align-items:center;
+    color:black;
+    font-family:open-sauce;
+    font-size:20px;
+    text-align:center;
+    margin-top:20px
+}
+
+.resource-rectangles2 {
+    width:320px;
+    height:300px;
+    background-color:#f5f9ff;
+    display:inline-block;
+    align-items:center;
+    color:black;
+    font-family:open-sauce;
+    font-size:20px;
+    text-align:center;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:5px;
+}
+
+
+
+#calculator-image {
+    width:50px;
+    height:auto;
+    border-radius:90%;
+}
+
+#stock-image {
+    width:50px;
+    height:auto;
+    border-radius:90%;
+}
+
+#c-l-image {
+    width:50px;
+    height:auto;
+    border-radius:90%;
+}
+
+#khan-logo {
+    width:50px;
+    height:auto;
+}
+
+#NGPF-logo {
+    width:50px;
+    height:auto;
+}
+
+#op-logo {
+    width:90px;
+    height:auto;
+}
+
+#Investopedia-logo {
+    width:50px;
+    height:auto;
+}
+
+.risk-rectangle {
+    width:290px;
+    height:330px;
+    background-color:#f5f9ff;
+    display:inline-block;
+    align-items:center;
+    color:black;
+    font-family:"Segoe UI", Arial;
+    font-size:20px;
+    text-align:center;
+    margin:15px;
+}
+
+footer {
+    text-decoration: none;
+    font-weight: 200;
+    background-color: #2EAD58;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a{
+    color: #1E2D59;
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 20px; 
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+#main-footer {
+    border-bottom: 15px solid;
+    color: #228d45;
+}
