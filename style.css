@@ -36,7 +36,7 @@
     font-size: 17px;
     text-decoration: none;
     background-color:inherit;
-    font-family:Inter;
+    font-family:"Inter", Arial;
     margin:1px;
     
 }
@@ -112,7 +112,7 @@ h2 {
     display:inline-block;
     align-items:center;
     color:#1E2D59;
-    font-family:Inter;
+    font-family:"Inter", Arial;
     text-align:center;
 }
 
@@ -123,7 +123,7 @@ h2 {
     display:inline-block;
     align-items:center;
     color:#1E2D59;
-    font-family:Inter;
+    font-family:"Inter", Arial;
     font-size:20px;
     text-align:center;
 }
@@ -135,7 +135,7 @@ h2 {
     display:inline-block;
     align-items:center;
     color:#1E2D59;
-    font-family:Inter;
+    font-family:"Inter", Arial;
     text-align:center;
 }
 
@@ -146,7 +146,7 @@ h2 {
     display:inline-block;
     align-items:center;
     color:#1E2D59;
-    font-family:Inter;
+    font-family:"Inter", Arial;
     text-align:center;
 }
 
@@ -158,7 +158,7 @@ h2 {
     display:inline-block;
     align-items:center;
     color:#1E2D59;
-    font-family:Inter;
+    font-family:"Inter", Arial;
     text-align:center;
     padding: 40px;
 }
@@ -209,7 +209,7 @@ h2 {
     display:inline-block;
     align-items:center;
     color:black;
-    font-family:Inter;
+    font-family:"Inter", Arial;
     font-size:20px;
     text-align:center;
     margin-top:20px
@@ -222,7 +222,7 @@ h2 {
     display:inline-block;
     align-items:center;
     color:black;
-    font-family:Inter;
+    font-family:"Inter", Arial;
     font-size:20px;
     text-align:center;
     margin-top:10px;
