@@ -86,18 +86,21 @@ h1 {
     margin: 1px;
     font-size: 34px;
     color: #1E2D59;
+    font-family:"Inter", Arial;
 }
 
 h2 {
     margin: 1px;
     font-size:30px;
     color: #1E2D59;
+    font-family:"Inter", Arial;
 }
    
 .tagline {
     margin: 3px;
     font-size: 15px;
     color: #1E2D59;
+    font-family:"Inter", Arial;
 } 
 
 .home-image {
@@ -165,6 +168,7 @@ h2 {
 
 .template-title-table {
     margin-right:200px;
+    font-family:"Inter", Arial;
 }
 
 .template-links {
@@ -175,6 +179,7 @@ h2 {
     background: white;
     border-radius: 20px;
     text-decoration: none;
+    font-family:"Inter", Arial;
 }
 
 .template-logo {
@@ -190,6 +195,7 @@ h2 {
     padding: 10px;
     font-size: 15px;
     border:2px;
+    font-family:"Inter", Arial;
 }
 
 .svi-table th{
@@ -200,6 +206,7 @@ h2 {
     margin:20px;
     height:30px;
     width:220px;
+    font-family:"Inter", Arial;
 }
 
 .resource-rectangles1 {
@@ -290,6 +297,7 @@ footer {
     align-items: center;
     text-align: center;
     padding: 20px;
+    font-family:"Inter", Arial;
 }
 
 footer a{
@@ -297,6 +305,7 @@ footer a{
     text-decoration: none;
     font-weight: 200;
     font-size: 20px; 
+    font-family:"Inter", Arial;
 }
 
 footer a:hover {
