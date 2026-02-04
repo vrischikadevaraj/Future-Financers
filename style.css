@@ -95,6 +95,10 @@ h2 {
     color: #1E2D59;
     font-family:"Inter", Arial;
 }
+
+p {
+    font-family:"Inter", Arial;
+}
    
 .tagline {
     margin: 3px;
